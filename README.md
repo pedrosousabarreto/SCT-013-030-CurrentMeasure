@@ -1,5 +1,4 @@
-### Using a [SCT-013-030 30A/1V](https://www.ptrobotics.com/sensor-de-corrente/2144-non-invasive-ac-current-sensor-30a.html) with an
-ADS1115 to measure AC Current
+### Using a [SCT-013-030 30A/1V](https://www.ptrobotics.com/sensor-de-corrente/2144-non-invasive-ac-current-sensor-30a.html) with an ADS1115 to measure AC Current
 - The SCT already has an internal 62 Ohm burden resistor - calibration value is supposed to be 30
 - Coil has 1800 turns (1800:1 ratio)
 - [Datasheet]( https://www.arduino.cc/documents/datasheets/E000020_Non-invasiveAC%20currentSensor30A.pdf)
